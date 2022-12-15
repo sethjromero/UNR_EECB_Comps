@@ -31,7 +31,7 @@ Information in a given
 Directories in this repository are organized based on current subjects of the EECB comprehensive exam [listed here](https://www.unr.edu/eecb/degrees/handbook/comp-exam). Specifically, these are:
 
 + **Ecology**
-    + Organismal Ecology
+    + [Organismal Ecology](/Ecology/OrganismalEcology/)
     + Population Ecology
     + Species Interactions
     + Community Ecology & Biogeography
